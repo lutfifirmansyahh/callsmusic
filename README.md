@@ -23,7 +23,7 @@ Copy `example.env` to `.env` and fill it with your credentials.
    python main.py
    ```
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lutfifirmansyahh/Callsmusic.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lutfifirmansyahh/callsmusic.git)
 
 
 
